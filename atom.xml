@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://HelloGitHubA.github.io/"/>
-  <updated>2019-08-04T12:59:08.722Z</updated>
+  <updated>2019-08-04T13:08:01.442Z</updated>
   <id>https://HelloGitHubA.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>newpapername</title>
-    <link href="https://HelloGitHubA.github.io/2019/08/04/newpapername/"/>
-    <id>https://HelloGitHubA.github.io/2019/08/04/newpapername/</id>
-    <published>2019-08-04T12:59:08.000Z</published>
-    <updated>2019-08-04T12:59:08.722Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
