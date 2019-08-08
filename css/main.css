@@ -1426,6 +1426,34 @@ pre .javascript .function {
   background-color: #f9f9f9;
   list-style: none;
 }
+.post-widgets {
+  border-top: 1px solid #eee;
+  margin-top: 45px;
+  text-align: center;
+}
+.wp_rating {
+  height: 20px;
+  margin-top: 10px;
+  text-align: center;
+  line-height: 20px;
+  padding-top: 6px;
+}
+.social-like {
+  font-size: 0.875em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.vk_like {
+  width: 85px;
+  height: 21px;
+  padding-top: 7px;
+  align-self: center;
+}
+.fb_like {
+  height: 30px;
+  align-self: center;
+}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -1503,6 +1531,12 @@ pre .javascript .function {
   height: auto;
   border: 1px solid #eee;
 }
+.site-author-image {
+  transition: transform 1s ease-out;
+}
+.site-author-image:hover {
+  transform: rotateZ(360deg);
+}
 .site-author-name {
   margin: 0;
   text-align: center;
@@ -1536,7 +1570,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #14e8c9;
+  background: #d9b1b8;
 }
 .feed-link,
 .chat {
