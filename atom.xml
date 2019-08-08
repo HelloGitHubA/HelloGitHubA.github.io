@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://HelloGitHubA.github.io/"/>
-  <updated>2019-08-08T13:14:46.193Z</updated>
+  <updated>2019-08-08T15:02:18.542Z</updated>
   <id>https://HelloGitHubA.github.io/</id>
   
   <author>
@@ -17,73 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>修改作者后上传的博客3</title>
-    <link href="https://HelloGitHubA.github.io/2019/08/08/%E4%BF%AE%E6%94%B9%E4%BD%9C%E8%80%85%E5%90%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%8D%9A%E5%AE%A23/"/>
-    <id>https://HelloGitHubA.github.io/2019/08/08/修改作者后上传的博客3/</id>
-    <published>2019-08-08T13:14:46.000Z</published>
-    <updated>2019-08-08T13:14:46.193Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>修改作者后上传的博客2</title>
-    <link href="https://HelloGitHubA.github.io/2019/08/08/%E4%BF%AE%E6%94%B9%E4%BD%9C%E8%80%85%E5%90%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%8D%9A%E5%AE%A22/"/>
-    <id>https://HelloGitHubA.github.io/2019/08/08/修改作者后上传的博客2/</id>
-    <published>2019-08-08T13:08:40.000Z</published>
-    <updated>2019-08-08T13:08:40.585Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>修改作者后上传的博客</title>
-    <link href="https://HelloGitHubA.github.io/2019/08/08/%E4%BF%AE%E6%94%B9%E4%BD%9C%E8%80%85%E5%90%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://HelloGitHubA.github.io/2019/08/08/修改作者后上传的博客/</id>
-    <published>2019-08-08T13:04:11.000Z</published>
-    <updated>2019-08-08T13:04:11.331Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>修改主题后上传的博客</title>
-    <link href="https://HelloGitHubA.github.io/2019/08/08/%E4%BF%AE%E6%94%B9%E4%B8%BB%E9%A2%98%E5%90%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://HelloGitHubA.github.io/2019/08/08/修改主题后上传的博客/</id>
-    <published>2019-08-08T12:14:15.000Z</published>
-    <updated>2019-08-08T12:14:15.449Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://HelloGitHubA.github.io/2019/08/04/hello-world/"/>
-    <id>https://HelloGitHubA.github.io/2019/08/04/hello-world/</id>
+    <title>网站日志</title>
+    <link href="https://HelloGitHubA.github.io/2019/08/04/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
+    <id>https://HelloGitHubA.github.io/2019/08/04/博客搭建日志/</id>
     <published>2019-08-04T04:57:07.567Z</published>
-    <updated>2019-08-08T12:07:30.121Z</updated>
+    <updated>2019-08-08T15:02:18.542Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎光临<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! 这是你的第一篇文章。查看<a href="https://hexo.io/docs/" target="_blank" rel="noopener">文档</a>获取更多信息 .如果在使用Hexo时遇到任何问题，可以在[故障排除]中找到答案。(<a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">https://hexo.io/docs/troubleshooting.html</a>) 或者你可以在GitHub上问我(<a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">https://github.com/hexojs/hexo/issues</a>).</p><h2 id="快速启动"><a href="#快速启动" class="headerlink" title="快速启动"></a>快速启动</h2><h3 id="创建一个新帖子"><a href="#创建一个新帖子" class="headerlink" title="创建一个新帖子"></a>创建一个新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>详细信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>详细信息: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>详细信息: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>详细信息: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>大家好，这是小呆呆的第一篇文章，利用Hexo+github搭建起来的博客，在这期间参考了许多已有的教程，结合自己的实践操作完成了博客的搭建。</p><p>`</p><pre><code class="第一步：小呆呆下载了github这个版本控制软件、安装了node.js，接着在github创建仓库。">第二步：通过更改主题文件，配置文件，添加了导航栏，对导航栏的每一项进行修改并添加了搜索页面等等。第三步：将本地文件发布到github上，完成这个博客的搭建。     这个搭建好的博客仍然存在许多的问题需要去修改，在接下去的工作就是修改完善相关的功能，环境了。</code></pre>]]></content>
     
     <summary type="html">
     
-      Welcome to Hexo! This is your very first post.
+      这是小呆呆第一篇博客&quot;
     
     </summary>
     
