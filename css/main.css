@@ -14,7 +14,6 @@ html {
 }
 body {
   margin: 0;
-  padding-bottom: 100px;
 }
 main {
   display: block;
@@ -1571,7 +1570,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd909;
+  background: #ffda01;
 }
 .feed-link,
 .chat {
@@ -2611,7 +2610,7 @@ ul.breadcrumb li+li:last-child {
   opacity: 0;
 }
 .sidebar-inner.affix {
-  
+  position: fixed;
   top: 12px;
 }
 .sidebar-inner.affix-bottom {
@@ -2723,3 +2722,4 @@ ul.breadcrumb li+li:last-child {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
