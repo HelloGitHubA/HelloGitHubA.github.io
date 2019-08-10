@@ -2610,7 +2610,7 @@ ul.breadcrumb li+li:last-child {
   opacity: 0;
 }
 .sidebar-inner.affix {
-  position: fixed;
+  
   top: 12px;
 }
 .sidebar-inner.affix-bottom {
@@ -2722,5 +2722,3 @@ ul.breadcrumb li+li:last-child {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-}
-.blank{ clear:both; overflow:hidden; display:block; float: left;}
