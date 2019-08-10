@@ -2723,3 +2723,4 @@ ul.breadcrumb li+li:last-child {
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+.blank{ clear:both; overflow:hidden; display:block; overflow:hidden;}
