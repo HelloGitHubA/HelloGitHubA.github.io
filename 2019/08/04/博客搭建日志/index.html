@@ -110,28 +110,6 @@
 </script>
 
   <title>网站日志 | 小呆呆</title>
-  <div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: '页面 ID', // 可选。默认为 location.href
-  owner: 'littlestay',
-  repo: 'https://littlestay.github.io/',
-  oauth: {
-    client_id: '5ef86018ce284e92bb9d',
-    client_secret: '3bb9a88122d4a8c67c2e460f5dfef618373350bc',
-  },
-})
-gitment.render('container')
-</script>
-
-
-
-
-
-
-
 
   <noscript>
   <style>
@@ -722,6 +700,22 @@ gitment.render('container')
 
 
 <script type="text/javascript" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
+
+  <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: 'location.href', // 可选。默认为 location.href
+  owner: 'littlestay',
+  repo: 'https://littlestay.github.io/',
+  oauth: {
+    client_id: '5ef86018ce284e92bb9d',
+    client_secret: '3bb9a88122d4a8c67c2e460f5dfef618373350bc',
+  },
+})
+gitment.render('container')
+</script>
 
 </body>
 </html>
