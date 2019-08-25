@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://HelloGitHubA.github.io/"/>
-  <updated>2019-08-25T16:19:18.725Z</updated>
+  <updated>2019-08-25T16:30:18.506Z</updated>
   <id>https://HelloGitHubA.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vuetify学习笔记</title>
+    <link href="https://HelloGitHubA.github.io/2019/08/26/Vuetify%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://HelloGitHubA.github.io/2019/08/26/Vuetify学习笔记/</id>
+    <published>2019-08-25T16:20:40.000Z</published>
+    <updated>2019-08-25T16:30:18.506Z</updated>
+    
+    <content type="html"><![CDATA[<p>Vuetify是一种前端开发UI框架，可以使用它快速的完成页面的开发，使用xs,md,lg等适应不同屏幕的大小，完成适配不同终端的功能。</p>]]></content>
+    
+    <summary type="html">
+    
+      vuetify一种前端开发框架
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="https://HelloGitHubA.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Vuetify" scheme="https://HelloGitHubA.github.io/tags/Vuetify/"/>
+    
+  </entry>
   
   <entry>
     <title>网站日志</title>

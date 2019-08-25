@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Vuetify学习笔记</title>
+      <link href="/2019/08/26/Vuetify%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <url>/2019/08/26/Vuetify%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>Vuetify是一种前端开发UI框架，可以使用它快速的完成页面的开发，使用xs,md,lg等适应不同屏幕的大小，完成适配不同终端的功能。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Vuetify </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>网站日志</title>
       <link href="/2019/08/04/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
       <url>/2019/08/04/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</url>
